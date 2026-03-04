@@ -39,8 +39,8 @@ Whether vehicle restrictions are required
 Approximate number of vehicles allowed on road
 Pollution control recommendations
 
-For example:
-AQI Range	Action
+For example:-
+AQI Range	Action:
 0–50	No restriction
 51–100	Monitor levels
 101–200	Reduce vehicles by 20%
