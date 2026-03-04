@@ -1,3 +1,7 @@
+SE24UCSE036 - Likhita Muddaamsetty
+SE24UCSE005 - Vallari Jakileti
+SE24UCSE041 - Yamini Ceeba
+
 This project focuses on designing a Simple Reflex Agent that takes environmental parameters from sensors (provided as a dataset file) and calculates the Air Quality Index (AQI). The dataset used in this project is based on historical air quality data from the year 2015. Therefore, all AQI calculations are performed using 2015 data only. Any selected date must belong to 2015, as the project does not use real-time or current environmental data.
 
 The agent operates as a Simple Reflex Agent. This means it does not store past states or learn from previous data. Instead, it reacts only to the current environmental input provided from the dataset. The agent follows predefined AQI threshold rules to determine the air quality category. Its decision-making process is purely condition-based and does not involve memory or prediction.
